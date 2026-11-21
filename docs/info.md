@@ -79,17 +79,6 @@ a, c, d, f, g
 Turns OFF:
 b, e
 
-Display:
-
-Plain Text
----
-|
----
-|
----
-
-Which looks like 5.
-
 5. Implementation in Verilog
 
 If you're working in Wokwi or Tiny Tapeout, the decoder is usually implemented with a case statement:
